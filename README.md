@@ -10,7 +10,7 @@
 
 - 🔭 **Focus:** Systems Programming, Web Scraping & Automation
 - 🐧 **Environment:** Arch Linux | Hyprland | Neovim
-- ⚡ **Fun Fact:** Customizing dotfiles and high-speed typing!
+- ⚡ **Fun Fact:** Customizing dotfiles
 
 ---
 
