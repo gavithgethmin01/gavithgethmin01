@@ -1,4 +1,4 @@
-# Hi there, I'm <YOUR_NAME> 👋
+# Hi there, I'm Gavith Gethmin 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C2E7&width=435&lines=Linux+%26+Hyprland+Enthusiast;Full-Stack+%26+Automation+Dev;Security+%26+Ethical+Hacking" alt="Typing SVG" />
